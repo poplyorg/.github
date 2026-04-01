@@ -50,46 +50,6 @@ Creemos que las mejores conexiones humanas suceden alrededor de una buena mesa. 
 
 ---
 
-## Principios Operativos
-
-### Construir una vez, desplegar en múltiples contextos
-
-**No resolvemos productos, resolvemos patrones.**
-
-Reservaciones, boletaje, accesos, membresías y relaciones son variaciones del mismo conjunto de problemas: identidad, tiempo, estado y transacción. Diseñamos sistemas modulares sobre estas primitivas para que cada nueva solución no implique empezar desde cero, sino componer sobre lo ya resuelto.
-
-### Ser dueños de la capa de infraestructura
-
-**No delegamos el núcleo operativo, lo diseñamos y construimos con estándares de la más alta exigencia en la industria.**
-
-Estamos creando nuestra propia base tecnológica para garantizar consistencia, disponibilidad y control total sobre cómo operan nuestros sistemas. No competimos en la superficie visual, competimos en confiabilidad, integridad de datos y correctitud operativa. Cuando la infraestructura es sólida, todo lo demás escala sobre ella.
-
-### Pensar en décadas, no en ciclos
-
-**No optimizamos para velocidad de entrega, optimizamos para permanencia.**
-
-Cada decisión arquitectónica se evalúa bajo una sola pregunta: ¿seguirá funcionando correctamente en diez años? Preferimos sistemas que escalan con el tiempo a soluciones que solo funcionan en el presente.
-
-### Eliminar complejidad, no esconderla
-
-**La complejidad no se maquilla, se absorbe en el sistema.**
-
-Cada capa debe justificar su existencia en términos de claridad y control. Si una abstracción no reduce fricción real, no pertenece. Diseñamos para que lo complejo viva en la infraestructura y lo simple en la experiencia.
-
-### El sistema es la interfaz
-
-**No diseñamos features aislados, diseñamos comportamiento emergente.**
-
-Cuando los datos, los eventos y las reglas están correctamente orquestados, la interfaz se vuelve una consecuencia, no el punto de partida. La experiencia final es el reflejo directo de un sistema bien construido.
-
-### Consistencia sobre conveniencia
-
-**Los sistemas distribuidos fallan cuando la verdad es ambigua.**
-
-Priorizamos integridad de datos, orden de eventos y sincronización sobre soluciones rápidas. La operación debe ser predecible, auditable y correcta, incluso bajo escala y condiciones adversas.
-
----
-
 ## Trabajemos Juntos
 
 Si estás buscando una solución personalizada o quieres conocer más sobre nuestros productos, ¡contáctanos! Estaremos encantados de colaborar contigo para llevar tu negocio al siguiente nivel.
